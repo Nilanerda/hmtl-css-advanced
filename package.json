@@ -1,0 +1,23 @@
+{
+  "name": "htmlcssadvanced",
+  "version": "1.0.0",
+  "description": "first init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilanerda/hmtl-css-advanced.git"
+  },
+  "author": "Yana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nilanerda/hmtl-css-advanced/issues"
+  },
+  "homepage": "https://github.com/Nilanerda/hmtl-css-advanced#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
